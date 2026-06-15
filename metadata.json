@@ -1,0 +1,6 @@
+{
+  "name": "SiteSec Vision-Intel Router v1.0",
+  "description": "An advanced e-commerce intelligence and tactical arbitrage scanner powered by Gemini Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
